@@ -21,4 +21,4 @@ Untuk memulai, Anda hanya perlu mengunduh atau men-clone repositori ini ke kompu
 
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/auldita123/test
